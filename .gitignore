@@ -1,0 +1,31 @@
+# ECON 5200 — PS2 (The Underpowered Portfolio)
+#
+# NOTE: Econ_5200_PS2.ipynb, src/experiment_portfolio.py, ai-appendix.md and README.md
+# are GRADED and must be committed. Do not add them here.
+
+# Secrets — API keys, tokens, credentials
+.env
+.env.*
+*.key
+*.pem
+
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Jupyter scratch
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Tooling
+.claude/
+
+# macOS
+.DS_Store
+
+# Personal notes
+dev_notes.py
